@@ -1,0 +1,2 @@
+export GOPATH=/home/pi/crew-food-checkin
+export PATH=$PATH:/home/pi/crew-food-checkin
